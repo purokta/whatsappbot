@@ -1,0 +1,18 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": false,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": false,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6282139089054",
+	"ownerNumberr": "6282139089054",
+	"cr": "nullbot release",
+	"ownername": "?masspur",
+	"botname":"null bot",
+	"thumb":"thumbnail_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": "null bot\nby maspur"
+}
